@@ -5,7 +5,9 @@ Snake in a nutshell? This is a game made in Python playable in the terminal.
 ## Where is the game playable?
 
 | Windows [10/11] | Linux  | MacOS |
+|-----------------|--------|--------|
 | Playable       | Playable | Yet to be confirmed |
+|-----------------|--------|--------|
 | Tested          | Tested in Ubuntu and Arch | Not tested |
 
 ## How to play it?
